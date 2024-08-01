@@ -300,6 +300,9 @@ Our project demonstrates the potential of machine learning and deep learning mod
 Ethical considerations and potential biases in the dataset were also concerns. For example, the demographic distribution in the dataset (e.g., age, ethnicity) might not represent the broader population, leading to biased model predictions. It is crucial to consider these factors when deploying models in diverse clinical environments to ensure equitable care. Addressing these biases would require a more comprehensive dataset that includes diverse demographic and geographic representations.
 
 ## Collaboration Statement
-- **Donovan Sanders**
-- **Lobna Kebir**
-- **Ritviksiddha Penchala**
+- **Donovan Sanders** : Worked on all iterations of the milestones, Group Leader, created several data loaders for the different ISIC datasets, worked on Resnet 18, Mobilenet V3, EfficientNetV2, Custom CNN (different pytorch and keras implementations but failed), Group Organizer, contributed to all reports. 
+
+- **Lobna Kebir** : Worked on all iterations of the milestones, worked on finding data sets and researching possible models to explore, worked on developing custom CNN and InceptionV3 transfer learning models, worked on organizing and developing all reports/readme milestone files
+
+- **Ritviksiddha Penchala**: Worked on all iterations of the milestones; Created the hdf5 data loader for initial models (before expanded dataset); Created initial ResNet18 model; Helped design/contribute to later model iterations and architectures; Contributed to and edited final manuscript
+
